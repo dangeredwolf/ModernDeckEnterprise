@@ -6,15 +6,17 @@
 
 ModernDeck Enterprise is designed to be easier to deploy at scale to more users and devices than ModernDeck, with both `msi` and `exe` packages available.
 
-|                          | ModernDeck                  | ModernDeck Enterprise              |
-|--------------------------|-----------------------------|------------------------------------|
-| Auto Updating            | Yes, configurable           | Yes, configurable (excludes `msi`) |
-| Installs...              | Per-user                    | Per-machine (All users)            |
-| Enterprise Configuration | Yes                         | Yes                                |
-| Who can install updates  | Users                       | Administrators                     |
-| Installation Behavior    | Launches after installation | Does not launch after installation |
-|                          | Automatic Desktop shortcut  | Does not create Desktop shortcut   |
-|                          | Creates Start Menu shortcut | Creates Start Menu shortcut        |
+|                          | ModernDeck                                         | ModernDeck Enterprise              |
+|--------------------------|----------------------------------------------------|------------------------------------|
+| Auto Updating            | Yes, configurable                                  | Yes, configurable (excludes `msi`) |
+| Installs...              | Per-user                                           | Per-machine (All users)            |
+| Enterprise Configuration | Yes                                                | Yes                                |
+| Who can install updates  | Users                                              | Administrators                     |
+| Support                  | Latest version for Home/Personal use only          | Long Term with paid support plan   |
+|                          | Long Term with paid support plan                   |                                    |
+| Installation Behavior    | Launches after installation                        | Does not launch after installation |
+|                          | Automatic Desktop shortcut                         | Does not create Desktop shortcut   |
+|                          | Creates Start Menu shortcut                        | Creates Start Menu shortcut        |
 
 ModernDeck Enterprise supports all the same features of ModernDeck that users and professionals love, and debuts alongside Enterprise Configuration in ModernDeck 8.1.
 
